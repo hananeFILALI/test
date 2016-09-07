@@ -16,7 +16,7 @@
 		<input type="text" name="c" value="${bean.c}" />
 		<input type="text" name="d" value="${bean.d}" />
 		<input type="text" name="e" value="${bean.e}" />
-		<input type="submit" value="ADDITION"/>
+		<input type="submit" value="+"/>
 	</form>
 	<h1>${bean.res1}</h1>
 	<h1>${bean.res2}</h1>
